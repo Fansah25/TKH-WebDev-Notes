@@ -1,22 +1,22 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week2]
+## [9]/[19] - [9]/[22]
 
-# Topic:
+# Topic: Files and Command Line
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [9]/[19]
 
 #### 🗒️Notes from class:
 
-#### 📚Resources:
+#### 📚Resources:https://www.geeksforgeeks.org/difference-between-terminal-console-shell-and-command-line/
 
 
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
+1. i LEARNT HOW TO PUSH
+2. i learnt how make a repo
 3. 
 
 👁️Two things I would like to know more about:
@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [9]/[20] 
 
 #### 🗒️Notes from class:
 
@@ -39,13 +39,13 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1.  How to make a repository
+2. How to add to notes
+3. How to push to github
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. how to push using the terminal
+2. how to make 
 
 ✋One thing I'm having trouble understanding:
 1. 
