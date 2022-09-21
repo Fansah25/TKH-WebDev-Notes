@@ -24,7 +24,7 @@ ___
 2. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. pushing a vs code to github
 
 
 ___
@@ -45,10 +45,10 @@ ___
 
 👁️Two things I would like to know more about:
 1. how to push using the terminal
-2. how to make 
+2. how to make a github repo
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. how to commit and push
 
 ___
 
