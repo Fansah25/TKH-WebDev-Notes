@@ -39,7 +39,7 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1.  How to make a repository
+1. How to make a repository
 2. How to add to notes
 3. How to push to github
 
@@ -52,7 +52,7 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [9]/[21]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +61,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. I learnt how to Start and manage a new branch
+2. I learnt Make changes to a file and push them to GitHub as commits 
+3. I learnt how to delete a branch
 
 👁️Two things I would like to know more about:
-1. 
+1. How to push in the terminal
 2. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. none
  
 
