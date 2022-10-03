@@ -24,7 +24,7 @@ ___
 2. How to translate what i design into code
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. none 
 
 
 ___
